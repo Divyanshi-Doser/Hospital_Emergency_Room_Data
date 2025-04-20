@@ -25,7 +25,7 @@ This project is an interactive Excel dashboard created using hospital emergency 
 
 - `Hospital Dashboard.xlsx` – Main Excel file
 - PNG screenshots of dashboard and each sheet (e.g., patient count, wait time, satisfaction) are uploaded separately in the repository
-- `RawData.csv` – Sample input data
+- `Hospital Emergency Room Data.csv` – Sample input data
 
 ## Purpose
 
