@@ -30,3 +30,7 @@ This project is an interactive Excel dashboard created using hospital emergency 
 ## Purpose
 
 This project is created for job and internship showcase purposes to demonstrate skills in data cleaning, analysis, and Excel dashboarding.
+
+## Author  
+Created by **[Divyanshi Doser]**    
+Email (divyanshidoser@gmail.com)**
